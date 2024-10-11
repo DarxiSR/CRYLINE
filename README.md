@@ -6,7 +6,7 @@
  * Email: darxis.exception@vfemail.net
  * Telegram: @Darxis
  * Jabber: Darxis@exploit.im
- * HackTheBox: https://www.hackthebox.eu/profile/37928
+ * HackTheBox: [https://www.hackthebox.eu/profile/37928](https://app.hackthebox.com/profile/37928)
  
  ![image info](./Banner.jpg)
 ------------------
